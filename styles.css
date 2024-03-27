@@ -1,0 +1,112 @@
+.top_bar{
+    margin-bottom: 10px;
+}
+    
+nav a{
+    padding: 0px;
+    text-decoration: none;
+    color: black;
+    display: block;
+
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+nav li{
+    flex-grow: 1;
+}
+
+.purple_background{
+    background-color: purple;
+    height: 700px;
+}
+
+.text1{
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+h1{
+    color: white;
+    font-size: 80px;
+    font-weight: 900;
+}
+
+span{
+    color: rgb(240, 222, 119);
+}
+
+p{
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+}
+.two_buttons{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.button1{
+    padding: 25px;
+    margin-right: 10px;
+    font-size: 20px;
+    border-radius: 40px;
+}
+.button2{
+    padding: 25px;
+    background-color: rgb(240, 222, 119);
+    font-size: 20px; 
+    border-radius: 40px;   
+}
+
+section{
+    
+    display: flex;
+    text-align: center;
+    padding: 100px 5%;
+}
+
+.text2{
+    width: 40%;
+    margin-right: auto;
+    display: block;
+    
+    
+}
+.img2{
+    width: 40%;
+    height: 70%;
+}
+
+.text3{
+    text-align: center;
+}
+.text3 span{
+    color: purple;
+}
+
+.img3{
+    margin-left: 12%
+}
+
+h2{
+    font-size: 65px;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+h3{
+    font-size: 30px;
+    font-weight: 400;
+}
+.row1 ul{
+    display: flex;
+    list-style-type: none;
+}
+.row1 li{
+    font-size: 65px;
+    font-weight: 900;
+
+}
