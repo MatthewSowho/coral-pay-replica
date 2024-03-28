@@ -36,7 +36,7 @@ h1{
     font-weight: 900;
 }
 
-span{
+.text1 span{
     color: rgb(240, 222, 119);
 }
 
@@ -101,12 +101,212 @@ h3{
     font-size: 30px;
     font-weight: 400;
 }
+.rows{
+    background-color: rgb(241, 235, 235);
+}
+
+.rows ul{
+    list-style-type: none;
+    max-width: 100%;
+}
+
 .row1 ul{
     display: flex;
-    list-style-type: none;
+    max-width: 100%;
 }
-.row1 li{
-    font-size: 65px;
+.rows{
+    max-width: 100%;
+}
+
+.rows li{
+    font-size: 20px;
+    font-weight: 200;
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    border-radius: 40px;
+    padding-top: 100px!important;
+    padding: 10px;
+    box-sizing: border-box;
+    flex: 1 1 0;
+}
+
+.a{
+    color: green;
+    font-size: 40px;
     font-weight: 900;
 
+}
+
+.b{
+    color: orangered;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.c{
+    color: purple;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.row2 ul{
+    display: flex;
+    max-width: 100%;
+}
+
+.d{
+    color: orangered;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.e{
+    color: rgb(250, 60, 164);
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.f{
+    color: blue;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.row3 ul{
+    display: flex;
+    max-width: 100%;
+}
+
+.g{
+    color: purple;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.h{
+    color: rgb(250, 60, 164);
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.i{
+    color: blue;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.text4{
+    margin-right: auto;
+}
+
+.text4 span{
+    font-size: 100px;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+
+.text5{
+    background-color: rgb(85, 85, 233);
+    display: inline-block;
+    text-align: center;
+    width: 80%;
+    margin-left: 120px;
+    border-radius: 30px;
+    padding: 60px;
+}
+
+.text5 span{
+    color: white;
+    font-size: 80px;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+
+.button3{
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.partners{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+.img5{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.text6{
+    background-color: rgb(85, 85, 233);
+    display: inline-block;
+    text-align: center;
+    padding: 0 50px;
+    border-radius: 40px;
+}
+
+.text7 span{
+    font-size: 70px;
+    color: white;
+    
+}
+
+.text7{
+    font-size: 30px;
+    color: white;
+    padding: 200px 50px;
+    
+}
+
+input[type= "email"]{
+    font-size: 20px;
+    height: 50px;
+    width: 500px;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+input[type= "submit"]{
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+    background-color: plum;
+    border-radius: 30px;
+}
+
+.final-section ul{
+    list-style-type: none;
+    
+}
+
+.main-list{
+    display: flex;
+    text-align: center;
+}
+
+.final-section li{
+    width: 20%;
+
+}
+
+.main-list li{
+    padding: 10px;
+    
+}
+
+.legal{
+    white-space: nowrap;
+}
+
+.contacts{
+    white-space: nowrap;
+}
+
+.text8{
+    color: rgb(14, 14, 151);
+    font-size: 40px;
+   
+    
 }
